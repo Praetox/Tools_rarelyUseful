@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="thlmcepTools">
+</Property><Property Name="Solution File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\thlmcepTools.sln">
+</Property><Property Name="User Options File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\thlmcepTools.suo">
+</Property><Property Name="Date" Value="Wednesday, January 04, 2012">
+</Property><Property Name="Time" Value="19:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="thlmcepTools.sln" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools.sln">
+</Event><Event ErrorLevel="0" Project="" Source="thlmcepTools.suo" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools.suo">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\thlmcepTools.csproj" Description="Project file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\thlmcepTools.csproj">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\thlmcepTools.csproj.user" Description="Project user file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\thlmcepTools.csproj.user">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmMain.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmMain.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmWait.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmWait.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmWait.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmWait.Designer.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Program.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Program.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\app.config" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\app.config">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Properties\Settings.settings" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmMain.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\frmWait.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\frmWait.resx">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\Properties\Resources.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools_rarelyUseful\Toolshed\Backup\thlmcepTools\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\thlmcepTools.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="thlmcepTools" Source="thlmcepTools\thlmcepTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="thlmcepTools.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="thlmcepTools.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="thlmcepTools" Source="thlmcepTools\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="thlmcepTools" Source="thlmcepTools\app.config" Description="Converted">
+</Event></UpgradeLog>

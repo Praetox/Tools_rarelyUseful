@@ -1,0 +1,7 @@
+
+toxirc == Simple definitions database by Praetox.
+url == http://www.praetox.com/
+forum == http://tib.110mb.com/
+<END_OF_PREDEFINED_LIST>
+
+gaijin == filthy non-japanese person

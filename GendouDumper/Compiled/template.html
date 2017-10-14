@@ -1,0 +1,53 @@
+﻿<html><head><title>Gendoump >> Track info and lyrics</title>
+<script type="text/javascript">
+function view(i){for(var h=1;h<=4;h++){viewObj('field'+h, "none");}viewObj('field'+i, "block");}
+function viewObj(id,mode){document.getElementById(id).style.display=mode;}
+</script></head><body>
+
+<style type="text/css">
+body { color:#999; background:#333; padding:8px; font-size:13px; font-family: Verdana, Arial, Trebuchet MS, sans-serif; }
+a { color:#999; }
+span { color:#fff; }
+h4 { color:#fff; margin:12px;}
+div#Nav a { display:block; float:left; color:#fff; background:#555; width:75px; height:18px; margin:1px; padding:2px; text-align:center; text-decoration:none; border:1px solid; border-color: #999 #000 #000 #999; }
+div#Nav { height:26px; }
+div#Cnt { position:relative; }
+div.wat { color:#bbb; background:#222; margin:8px 1px 8px 1px; padding: 0px 16px 12px 16px; border: 1px solid; border-color: #555 #000 #000 #555; }
+</style>
+
+<div id=Nav>
+<a href="#" onMouseOver="view(1);">Info</a>
+<a href="#" onMouseOver="view(2);">Romaji</a>
+<a href="#" onMouseOver="view(3);">Kanji</a>
+<a href="#" onMouseOver="view(4);">English</a>
+<p style="float:left;margin:4px;color:#ccc"> &nbsp; Powered by JavaScript</p>
+<p style="float:left;margin:4px;color:#888"> &nbsp; <i>[ Opera / FF2 / FF3 / IE6 ]</i></p>
+</div>
+
+<div class=wat style="display:block;" id="field1">
+	<h4>Song information</h4>
+	<span>Title</span>: [[title]]<br>
+	<span>Artist</span>: [[artist]]<br>
+	<span>Anime</span>: [[anime]]<br>
+	<span>Length</span>: [[trlen]]<br>
+	<span>Source</span>: [[trtyp]]<br>
+	<h4>Media information</h4>
+	<span>Approx size</span>: [[fsize]]<br>
+	<span>Exact size</span>: [[wrsize]]<br>
+	<span>MD5 sum</span>: [[md5sum]]<br>
+</div>
+<div class=wat style="display:none;" id="field2">
+	<h4>Lyrics - Romaji</h4>
+	[[lyrics1]]
+</div>
+<div class=wat style="display:none;" id="field3">
+	<h4>Lyrics - Kanji</h4>
+	[[lyrics2]]
+</div>
+<div class=wat style="display:none;" id="field4">
+	<h4>Lyrics - English</h4>
+	[[lyrics3]]
+</div>
+
+<center>2008/July/13 - <a href="http://praetox.com/"><span>Praetox</span></a></center>
+</body></html>

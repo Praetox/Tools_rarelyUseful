@@ -1,0 +1,21 @@
+Demo pack 03 - Assorted
+
+bass
+cymbal
+hit
+hithat
+
+lowt
+medt
+snare
+kick
+
+ride
+sidestick
+tamb
+x
+
+tom_hi
+tom_lo
+wood
+x
